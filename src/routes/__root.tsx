@@ -17,7 +17,7 @@ export const Route = createRootRoute({
       { title: 'Nafabook | Get Funded, Manage Smarter' },
       { name: 'description', content: 'Digital Hisab Kitab and trusted business finance access for growing Indian MSMEs.' },
       { name: 'theme-color', content: '#0a2540' },
-      { property: 'og:title', content: 'Nafabook | Hisab Sahi, Nafa Zyada' },
+      { property: 'og:title', content: 'Nafabook | Get Funded, Manage Smarter' },
       { property: 'og:description', content: 'Smart business accounting and quick access to business finance for growing MSMEs.' },
     ],
   }),
